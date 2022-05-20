@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Sebastian Guerrero</h1>
 <h3 align="center">A detail-oriented Software Engineer from New York.</h3>
 
-- 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/)
+<!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/)
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB**
+- 🌱 I’m currently learning **React.js, Node.js, MongoDB** -->
 
 - 👨‍💻 All of my projects are available at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
