@@ -2,6 +2,21 @@
 
 <h3 align="center">A detail-oriented Software Engineer from New York.</h3>
 
+<p align="center">
+  <a href="https://johnsebastiandev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/johnsguerrero/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/SebaCodes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/john-sebastian-guerrero" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+</p>
+
 
 <!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/)
 
