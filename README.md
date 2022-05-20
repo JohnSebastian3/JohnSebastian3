@@ -24,8 +24,6 @@
 
 - 👨‍💻 All of my projects are available at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
-
 - 📫 How to reach me **johnsebastiandev@gmail.com**
 
 - ⚡ Fun fact **I love to watch Anime and read books by Brandon Sanderson.**
