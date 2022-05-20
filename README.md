@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm John Sebastian Guerrero</h1>
+<img src="images/githubBanner.png" width="100%">
+
 <h3 align="center">A detail-oriented Software Engineer from New York.</h3>
 
-<img src="images/githubBanner.png" width="100%">
 
 <!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/)
 
