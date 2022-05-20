@@ -15,6 +15,90 @@
 
 - ⚡ Fun fact **I love to watch Anime and read Brandon Sanderson books.**
 
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Libberly</h3>
+        <br />
+        <a target="_blank" href="https://johnsebastian3.github.io/libberly/">
+            <img src="images/libgif.gif" width="100%" alt="Library App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/JohnSebastian3/libberly" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://johnsebastian3.github.io/libberly/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Libberly is a simple-to-use Library application. You can store your finished and/or unfinished books, track your reading stats, and even remove unwanted books. It uses local storage so that all your books will be there even if you leave the browser.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Luxury Salon</h3>
+        <br />
+      <a target="_blank" href="https://jgsalon.netlify.app/">
+            <img src="images/salongif.gif" width="100%"  alt="Luxury Salon"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/JohnSebastian3/salon-layout" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://jgsalon.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>A responsive, accessible landing page for a Salon business. Built with <strong>Grid</strong> and <strong>Flexbox</strong> to achieve a sleek and modern design.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Cleave</h3>
+      <br />
+        <a target="_blank" href="https://cleave.netlify.app/">
+          <img src="images/cleavegif.gif" width="100%" alt="Tip Calculator"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/JohnSebastian3/tip-calculator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://cleave.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Cleave is a sleek tip calculator. Set the amount of the bill, the percentage you want to tip, and the number of people, and Cleave will split your bill for you. It will determine how much you should tip, and how much each person should tip.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+        <br />
+        <a target="_blank" href="https://johnsebastiandev.netlify.app/">
+          <img src="images/portfoliogif.gif" width="100%" alt="Portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/JohnSebastian3/Portfolio-v2" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://johnsebastiandev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Portfolio website that highlights my services and past work. Includes live demo and repo links to featured projects, and a contact form to get in contact with me.</p>
+    </td>
+  </tr>
+</table>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sebacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sebacodes" height="30" width="40" /></a>
