@@ -1,6 +1,6 @@
 <img src="images/githubBanner.png" width="100%">
 
-<h3 align="center">A detail-oriented Software Engineer from New York.</h3>
+<h3 align="center">Im John, a detail-oriented Software Engineer from New York.</h3>
 
 <p align="center">
   <a href="https://johnsebastiandev.netlify.app/" target="_blank">
@@ -25,8 +25,6 @@
 - 👨‍💻 All of my projects are available at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
 - 📫 How to reach me **johnsebastiandev@gmail.com**
-
-- ⚡ Fun fact **I love to watch Anime and read books by Brandon Sanderson.**
 
 
 <h1 align="center">Projects</h1>
