@@ -18,9 +18,9 @@
 </p>
 
 
-<!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/)
+<!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/) -->
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB** -->
+- 💼 I’m currently accepting clients
 
 - 👨‍💻 All of my projects are available at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
