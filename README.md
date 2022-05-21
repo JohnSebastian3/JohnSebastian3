@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
-- 📫 How to reach me **johnsebastiandev@gmail.com**
+- 📫 Email me at **johnsebastiandev@gmail.com**
 
 
 <h1 align="center">Projects</h1>
