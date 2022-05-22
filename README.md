@@ -22,7 +22,7 @@
 
 - 💼 I’m currently accepting clients
 
-- 👨‍💻 All of my projects are available at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
+- 👨‍💻 Learn more at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
 - 📫 Email me at **johnsebastiandev@gmail.com**
 
