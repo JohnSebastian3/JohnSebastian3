@@ -34,7 +34,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Libberly</h3>
         <br />
-        <a target="_blank" href="https://johnsebastian3.github.io/libberly/">
+        <a href="https://johnsebastian3.github.io/libberly/" target="_blank" >
             <img src="images/libgif.gif" width="100%" alt="Library App"/>
         </a>
         <br />
