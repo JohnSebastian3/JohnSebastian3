@@ -1,6 +1,6 @@
 <img src="images/cover.png" width="100%">
 
-<h3 align="center">A detail-oriented Software Engineer from New York.</h3>
+<h3 align="center">Im John, a detail-oriented Software Engineer from New York.</h3>
 
 <p align="center">
   <a href="https://johnsebastiandev.netlify.app/" target="_blank">
@@ -18,15 +18,13 @@
 </p>
 
 
-<!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/)
+<!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/) -->
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB** -->
+- 💼 I’m currently accepting clients
 
-- 👨‍💻 All of my projects are available at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
+- 👨‍💻 Learn more at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
-- 📫 How to reach me **johnsebastiandev@gmail.com**
-
-- ⚡ Fun fact **I love to watch Anime and read books by Brandon Sanderson.**
+- 📫 Email me at **johnsebastiandev@gmail.com**
 
 
 <h1 align="center">Projects</h1>
@@ -36,7 +34,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Libberly</h3>
         <br />
-        <a target="_blank" href="https://johnsebastian3.github.io/libberly/">
+        <a href="https://johnsebastian3.github.io/libberly/" target="_blank" >
             <img src="images/libgif.gif" width="100%" alt="Library App"/>
         </a>
         <br />
