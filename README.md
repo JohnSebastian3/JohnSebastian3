@@ -1,4 +1,4 @@
-<img src="images/cover.png" width="100%">
+<img src="images/banner.png" width="100%">
 
 <h3 align="center">Im John, a detail-oriented Software Engineer from New York.</h3>
 
