@@ -32,7 +32,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Libberly</h3>
+      <h3 align="center">DivByte</h3>
         <br />
         <a href="https://divbyte.up.railway.app/" target="_blank" >
             <img src="images/divbyte.gif" width="100%" alt="Stock App"/>
