@@ -34,20 +34,20 @@
     <td width="50%" valign="top">
       <h3 align="center">Libberly</h3>
         <br />
-        <a href="https://johnsebastian3.github.io/libberly/" target="_blank" >
-            <img src="images/libgif.gif" width="100%" alt="Library App"/>
+        <a href="https://divbyte.up.railway.app/" target="_blank" >
+            <img src="images/divbyte.gif" width="100%" alt="Stock App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/JohnSebastian3/libberly" target="_blank">
+  <a href="https://github.com/JohnSebastian3/divbyte-stock-tracker" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://johnsebastian3.github.io/libberly/" target="_blank">
+  <a href="https://divbyte.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Libberly is a simple-to-use Library application. You can store your finished and/or unfinished books, track your reading stats, and even remove unwanted books. It uses local storage so that all your books will be there even if you leave the browser.</p>
+        <p>A fully responsive Full-Stack application where users can add and track their stock performance with real time market data. Users can create a profile, research stock metrics, leave comments, and check in everyday to see how their portfolio is performing.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Luxury Salon</h3>
