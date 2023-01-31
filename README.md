@@ -19,7 +19,7 @@
 
 <!-- - 🔭 I’m currently working on [Libberly](https://johnsebastian3.github.io/libberly/) -->
 
-- 💼 I’m currently accepting clients
+- 💼 I’m currently accepting clients and new full-time offers
 
 - 👨‍💻 Learn more at [https://johnsebastiandev.netlify.app/](https://johnsebastiandev.netlify.app/)
 
