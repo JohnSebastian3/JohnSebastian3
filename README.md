@@ -64,8 +64,11 @@
   </a>
       </p>
         <p>A fully responsive Full-Stack application where users can add and track their stock performance with real time market data. Users can create a profile, research stock metrics, leave comments, and check in everyday to see how their portfolio is performing.</p>
-    </td>
-     <td width="50%" valign="top">
+    </td>  
+  </tr>
+  
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">Bella Hair Salon</h3>
         <br />
         <a href="https://www.bellasalonoceanside.com/" target="_blank" >
@@ -82,10 +85,7 @@
   </a>
       </p>
         <p>A beautiful, fully responsive website for a local salon business.</p>
-    </td>    
-  </tr>
-  
-  <tr>
+    </td>  
      <td width="50%" valign="top">
       <h3 align="center">Cleave</h3>
       <br />
@@ -103,7 +103,10 @@
       </p>
         <p>Cleave is a sleek tip calculator. Set the amount of the bill, the percentage you want to tip, and the number of people, and Cleave will split your bill for you. It will determine how much you should tip, and how much each person should tip.</p>
     </td>
-    <td width="50%" valign="top">
+   
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">Libberly</h3>
         <br />
         <a target="_blank" href="https://johnsebastian3.github.io/libberly/">
